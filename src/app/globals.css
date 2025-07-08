@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+  font-family: gilroy;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
