@@ -28,3 +28,4 @@ Clerk provides:
 - Email/password login
 - Social login (Google)
 - Session management
+- Custum Login/Signup Button
